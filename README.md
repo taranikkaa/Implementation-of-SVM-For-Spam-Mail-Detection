@@ -25,8 +25,8 @@ To write a program to implement the SVM For Spam Mail Detection.
 ```
 /*
 Program to implement the SVM For Spam Mail Detection..
-Developed by: RANJANA R
-RegisterNumber:  212224040270
+Developed by: TARANIKKA A
+RegisterNumber:  212223220115
 */
 ```
 ```
